@@ -1,2 +1,2 @@
 # typoraImg
-The uploaded image for typora
+The uploaded image of typora
